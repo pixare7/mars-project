@@ -80,16 +80,11 @@ Detailing the approach and methods used to achieve the project's goals:
 
 ## Conclusions
 
-- The dataset includes 1,867 Martian days of weather data.
-- Mars has 12 months in its year.
+- The dataset includes 1,867 Martian days of weather data and Mars has 12 months in its year.
 - The third month is the coldest, while the eighth month is the hottest.
 - On average, the sixth month experiences the lowest atmospheric pressure, while the ninth month has the highest.
 - The "Minimum Temperature Over Time" plot reveals a cyclical pattern, with peak temperatures occurring around the estimated days 125, 750, and 1,375. This suggests a seasonal cycle on Mars, with an interval of approximately 625 terrestrial days between these peaks. This implies that a Martian year spans roughly 625 terrestrial days.
-
-### Additional Insights:
-
-- The relationship between temperature and pressure on Mars suggests that both variables follow a cyclical pattern aligned with Martian seasons. Understanding this relationship could be crucial for planning missions that minimize risks associated with extreme weather conditions.
-- The data highlights the importance of selecting the right time for landing and exploration, as temperature and pressure variations could significantly impact the safety and success of Mars missions.
+- The relationship between temperature and pressure on Mars suggests a cyclical pattern aligned with Martian seasons. Understanding this relationship is crucial for planning missions that minimize risks associated with extreme weather conditions, as selecting the right time for landing and exploration could significantly impact the safety and success of Mars missions.
 
 ## Future Work
 
