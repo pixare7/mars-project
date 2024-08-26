@@ -50,26 +50,32 @@ Detailing the approach and methods used to achieve the project's goals:
 
 #### Figure 0: Mars DataFrame
 ![Figure 0](https://github.com/pixare7/mars-project/blob/main/images/fig0.png)
+
 *A table displaying the Mars data that was scraped and used for the following visuals.*
 
 #### Figure 1: Average Minimum Temperature by Month
 ![Figure 1](https://github.com/pixare7/mars-project/blob/main/images/fig1.png)
+
 *A bar chart showing the average minimum temperature per month.*
 
 #### Figure 2: Average Minimum Temperature by Month (Sorted)
 ![Figure 2](https://github.com/pixare7/mars-project/blob/main/images/fig2.png)
+
 *This sorted bar chart indicates that the third month experiences the lowest average temperatures, while the eighth month has the highest.*
 
 #### Figure 3: Average Pressure by Month
 ![Figure 3](https://github.com/pixare7/mars-project/blob/main/images/fig3.png)
+
 *A bar chart illustrating the average atmospheric pressure per month.*
 
 #### Figure 4: Average Pressure by Month (Sorted)
 ![Figure 4](https://github.com/pixare7/mars-project/blob/main/images/fig4.png)
+
 *This sorted bar chart shows that the sixth month has the lowest average pressure, while the ninth month has the highest.*
 
 #### Figure 5: Minimum Temperature Over Time
 ![Figure 5](https://github.com/pixare7/mars-project/blob/main/images/fig5.png)
+
 *A plot depicting the minimum temperature over time.*
 
 ## Conclusions
