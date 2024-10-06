@@ -1,5 +1,9 @@
 # Mars Project
 
+## Overview
+
+This project explores the relationship between various weather variables on Mars, such as temperature and pressure, across different Martian months and years. Key questions addressed include: How do temperature and pressure fluctuate over a Martian year? 
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Project Details](#project-details)
@@ -9,10 +13,6 @@
    - [Figures](#figures)
 3. [Conclusions](#conclusions)
 4. [Future Work](#future-work)
-
-## Overview
-
-This project explores the relationship between various weather variables on Mars, such as temperature and pressure, across different Martian months and years. Key questions addressed include: How do temperature and pressure fluctuate over a Martian year? 
 
 ## Project Details
 
